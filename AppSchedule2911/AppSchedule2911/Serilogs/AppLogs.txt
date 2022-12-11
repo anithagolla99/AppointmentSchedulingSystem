@@ -44,3 +44,6 @@
 12/11/2022 14:54:51 +05:30 Our Web API Started!!!
 12/11/2022 14:54:53 +05:30 Failed to determine the https port for redirect.
 12/11/2022 14:54:53 +05:30 Error 404
+12/11/2022 15:39:29 +05:30 Our Web API Started!!!
+12/11/2022 15:39:31 +05:30 Failed to determine the https port for redirect.
+12/11/2022 15:39:31 +05:30 Error 404
